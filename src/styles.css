@@ -8,6 +8,12 @@
     font-family: 'Barlow', sans-serif;
 }
 
+.n-error {
+    color: brown;
+    font-size: small;
+    font-weight: bold;
+}
+
 .animate_bounceIn {
     animation: bounce;
     animation-duration: 2s;
